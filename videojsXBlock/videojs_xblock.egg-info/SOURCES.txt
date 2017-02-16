@@ -1,0 +1,16 @@
+videojs/__init__.py
+videojs/videojs.py
+videojs/static/css/video-js.min.css
+videojs/static/css/videojs.css
+videojs/static/html/videojs_edit.html
+videojs/static/html/videojs_view.html
+videojs/static/js/video-js.js
+videojs/static/js/videojs_edit.js
+videojs/static/js/videojs_view.js
+videojs/static/swf/video-js.swf
+videojs_xblock.egg-info/PKG-INFO
+videojs_xblock.egg-info/SOURCES.txt
+videojs_xblock.egg-info/dependency_links.txt
+videojs_xblock.egg-info/entry_points.txt
+videojs_xblock.egg-info/requires.txt
+videojs_xblock.egg-info/top_level.txt
